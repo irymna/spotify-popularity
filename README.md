@@ -13,4 +13,4 @@ Esse repositório contem o modelo de predição de popularidade de músicas em u
 7) Vendo o desempenho do modelo (Curva ROC-AUC)
 8) Testando o modelo e vendo a acertividade com a base de teste
 
-Em conclusão, o modelo escolhido foi Random Forest com o método de balanceamento OverSampling, com a acurácia de 98,8%.
+Em conclusão, o modelo escolhido foi Random Forest com o método de balanceamento OverSampling.
